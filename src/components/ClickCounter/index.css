@@ -1,0 +1,18 @@
+/* Write your CSS here */
+
+.container {
+  text-align: center;
+  background-color: #f1f5f8;
+  color: black;
+}
+.count {
+  color: #c20a72;
+}
+.heading {
+  text-align: center;
+}
+.btn {
+  background-color: blue;
+  cursor: pointer;
+  outline: none;
+}
